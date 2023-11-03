@@ -1,6 +1,6 @@
 ### Hello 👋! Hola 🙌!
 
-# Formerly known as <a src="https://github.com/Al3xN4v4">Al3xN4v4</a>
+# Formerly known as [Al3xN4v4](https://github.com/Al3xN4v4)
 
 <!--
 **TochtliNava/TochtliNava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
